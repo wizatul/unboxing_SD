@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T08:13:55.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.10" etag="euj7B13UMLNjPWdyJLsy" type="github"><diagram name="Page-1" id="aJpytAYK7faSyv1sGg90">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T09:29:37.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eLKgHSpZMELhGCZtRgBE" version="20.8.10" type="github">
+  <diagram name="Page-1" id="aJpytAYK7faSyv1sGg90">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wynSaRZsbOy__F8D8iyc-10" value="devices" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="54.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wynSaRZsbOy__F8D8iyc-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="320" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wynSaRZsbOy__F8D8iyc-12" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wynSaRZsbOy__F8D8iyc-15" value="Onboardig" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175.5" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wynSaRZsbOy__F8D8iyc-17" value="Unboxing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wynSaRZsbOy__F8D8iyc-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="30" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
