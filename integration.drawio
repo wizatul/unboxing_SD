@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T13:19:14.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="s8ksF0YmQyBCcWQN87M6" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T13:47:32.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="pIww0Ky5o1eVIcj7xD2w" version="20.8.10" type="github">
   <diagram name="Page-1" id="aJpytAYK7faSyv1sGg90">
-    <mxGraphModel dx="1874" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,6 +136,9 @@
         <mxCell id="wynSaRZsbOy__F8D8iyc-77" value="User_info 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="300" y="520" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0SnbFQoZS6SK-Im3S4mc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wynSaRZsbOy__F8D8iyc-78" target="wynSaRZsbOy__F8D8iyc-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wynSaRZsbOy__F8D8iyc-78" value="User_transaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="300" y="560" width="120" height="30" as="geometry" />
         </mxCell>
@@ -181,7 +184,7 @@
         <mxCell id="0SnbFQoZS6SK-Im3S4mc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0SnbFQoZS6SK-Im3S4mc-7" value="Yellow AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0SnbFQoZS6SK-Im3S4mc-7" value="Yellow AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="600" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0SnbFQoZS6SK-Im3S4mc-8" value="Logistics&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
